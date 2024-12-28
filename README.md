@@ -1,4 +1,5 @@
 Cosmetic Product Analysis with t-SNE
+
 Project Overview
 This project focuses on analyzing cosmetic product data using t-Distributed Stochastic Neighbor Embedding (t-SNE), a dimensionality reduction technique. The goal is to visualize high-dimensional data in a two-dimensional space, enabling us to identify patterns and clusters among cosmetic items based on their composition and features.
 
